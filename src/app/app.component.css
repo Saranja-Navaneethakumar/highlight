@@ -1,0 +1,31 @@
+.text{
+    margin:  30px;
+}
+
+.box{
+    padding: 30px;
+}
+
+.mark {
+    position: relative;
+  }
+/*   
+  .mark .highlighted-text:hover,
+  .mark .highlighted-text.hovered {
+    background-color: red;
+  }
+  
+
+   .highlighted-text {
+    background-color: green;
+    position: relative;
+  }
+  
+  .highlighted-text:hover {
+    background-color: red;
+  }
+  
+  .highlighted-text.hovered {
+    background-color: red;
+  }
+   */
